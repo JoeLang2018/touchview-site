@@ -1,0 +1,1 @@
+import{_ as o,r as n,o as t,c,a as s}from"./app-0005231d.js";const a={};function r(_,l){const e=n("Downloads");return t(),c("div",null,[s(e)])}const m=o(a,[["render",r],["__file","index.html.vue"]]);export{m as default};
